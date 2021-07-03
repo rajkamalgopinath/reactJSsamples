@@ -1,0 +1,42 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, .card-body>h5 {
+font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+  color: #3046C5;
+}
+
+.card-img-overlay h5 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.site-footer {
+  background-image: linear-gradient(rgb(200, 247, 255), white);
+  padding: 20px 0;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to right, rgb(13, 13, 14), #3046C5, rgb(69, 26, 148));
+  color: white;
+}
+
+.jumbotron h2 {
+  color: #CEC8FF;
+}
+
+.navbar-dark {
+  background-color: rgb(47, 164, 243);
+}
